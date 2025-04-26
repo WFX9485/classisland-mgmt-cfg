@@ -3,7 +3,7 @@
     "OrganizationName": "ChangshuXupuSeniorSchool",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/classplans.json",
-        "Version": 1
+        "Version": 2
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/timelayouts.json",
