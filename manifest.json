@@ -1,4 +1,16 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "ChangshuXupuSeniorSchool"
+    "OrganizationName": "ChangshuXupuSeniorSchool",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/subjects.json",
+        "Version": 1
+    }
 }
