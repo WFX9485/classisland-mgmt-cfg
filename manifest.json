@@ -3,18 +3,18 @@
     "OrganizationName": "常熟市浒浦高级中学",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/{id}/classplans.json",
-        "Version": 2
+        "Version": 3
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 2
+        "Version": 3
     },
     "SubjectsSource": {
             "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/{id}/subjects.json",
-            "Version": 2
+            "Version": 3
     },
     "SettingSource": {
         "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/Settings.json",
-        "Version": 2
+        "Version": 3
     }
 }

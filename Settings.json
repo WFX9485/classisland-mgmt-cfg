@@ -1,1 +1,718 @@
-{"SelectedProfile":"115\u73ED20250501.json","IsMainWindowVisible":true,"IsWelcomeWindowShowed":true,"SettingsOverlay":{},"WeatherLongitude":120.7367,"WeatherLatitude":31.6471,"WeatherLocationSource":1,"AutoRefreshWeatherLocation":true,"SingleWeekStartTime":"2025-02-10T00:00:00","MultiWeekRotationOffset":[-1,-1,0,0,0],"ClassPrepareNotifySeconds":60,"IsClassPrepareNotificationEnabled":true,"MiniInfoProviderSettings":{},"SelectedMiniInfoProvider":"d9fc55d6-8061-4c21-b521-6b0532ff735f","ShowDate":true,"HideOnClass":false,"IsClassChangingNotificationEnabled":true,"IsClassOffNotificationEnabled":true,"HideMode":1,"HiedRules":{"Mode":0,"IsReversed":false,"Groups":[{"Rules":[{"IsReversed":false,"Id":"classisland.lessons.timeState","Settings":{"State":1,"IsActive":false},"IsActive":false},{"IsReversed":false,"Id":"classisland.windows.status","Settings":{"State":3,"IsActive":false},"IsActive":false}],"Mode":1,"IsReversed":false,"IsEnabled":true,"IsActive":false}],"IsActive":false},"HideOnFullscreen":false,"ExcludedFullscreenWindow":["explorer"],"HideOnMaxWindow":false,"IsReportingEnabled":true,"TaskBarIconClickBehavior":2,"ShowExtraInfoOnTimePoint":true,"ExtraInfoType":0,"IsCountdownEnabled":true,"CountdownSeconds":60,"ExtraInfo4ShowSecondsSeconds":300,"ScheduleSpacing":1,"ShowCurrentLessonOnlyOnClass":false,"IsNonExactCountdownEnabled":false,"DefaultOnClassTimePointMinutes":40,"DefaultBreakingTimePointMinutes":10,"IsSplashEnabled":true,"SplashCustomText":"","SplashCustomLogoSource":"","ExactTimeServer":"ntp.aliyun.com","IsExactTimeEnabled":true,"TimeOffsetSeconds":0,"IsTimeAutoAdjustEnabled":false,"TimeAutoAdjustSeconds":0,"LastTimeAdjustDateTime":"2025-05-01T00:00:00+08:00","IsTransientDisabled":false,"IsWaitForTransientDisabled":false,"IsCriticalSafeMode":false,"ShowDetailedStatusOnSplash":false,"CriticalSafeModeMethod":0,"AutoDisableCorruptPlugins":true,"CorruptPluginsDisabledLastSession":false,"Theme":2,"PrimaryColor":{"ColorContext":null,"A":255,"R":0,"G":191,"B":255,"ScA":1,"ScR":0,"ScG":0.5209956,"ScB":1},"SecondaryColor":{"ColorContext":null,"A":255,"R":127,"G":255,"B":212,"ScA":1,"ScR":0.21223076,"ScG":1,"ScB":0.65837485},"ColorSource":2,"WallpaperColorPlatte":[{"ColorContext":null,"A":255,"R":92,"G":149,"B":158,"ScA":1,"ScR":0.107023105,"ScG":0.3005438,"ScB":0.34191445},{"ColorContext":null,"A":255,"R":53,"G":120,"B":134,"ScA":1,"ScR":0.035601314,"ScG":0.18782078,"ScB":0.2383976},{"ColorContext":null,"A":255,"R":143,"G":185,"B":200,"ScA":1,"ScR":0.27467734,"ScG":0.48514995,"ScB":0.57758045},{"ColorContext":null,"A":255,"R":168,"G":200,"B":210,"ScA":1,"ScR":0.3915725,"ScG":0.57758045,"ScB":0.6444797},{"ColorContext":null,"A":255,"R":42,"G":85,"B":90,"ScA":1,"ScR":0.023153368,"ScG":0.09084172,"ScB":0.10224174}],"SelectedPlatteIndex":0,"IsWallpaperAutoUpdateEnabled":false,"WallpaperAutoUpdateIntervalSeconds":60,"WallpaperClassName":"","IsFallbackModeEnabled":true,"UseExperimentColorPickingMethod":false,"TargetLightValue":0.6,"IsCustomBackgroundColorEnabled":false,"BackgroundColor":{"ColorContext":null,"A":255,"R":0,"G":0,"B":0,"ScA":1,"ScR":0,"ScG":0,"ScB":0},"Opacity":0.5,"Scale":1,"MainWindowFont":"/ClassIsland;component/Assets/Fonts/#HarmonyOS Sans SC","MainWindowFontWeight2":500,"RadiusX":0,"RadiusY":0,"MainWindowSecondaryFontSize":14,"MainWindowBodyFontSize":16,"MainWindowEmphasizedFontSize":18,"MainWindowLargeFontSize":20,"IsCustomForegroundColorEnabled":false,"CustomForegroundColor":{"ColorContext":null,"A":255,"R":30,"G":144,"B":255,"ScA":1,"ScR":0.0129830325,"ScG":0.2788943,"ScB":1},"MainWindowLineVerticalMargin":5,"CurrentComponentConfig":"Default","IsNotificationEnabled":true,"NotificationProvidersEnableStates":{"08f0d9c3-c770-4093-a3d0-02f3d90c24bc":true,"8fbc3a26-6d20-44dd-b895-b9411e3ddc51":true,"7625de96-38aa-4b71-b478-3f156dd9458d":true,"4b12f124-8585-43c7-afc5-7bbb7cbe60d6":true,"0117fb4f-5374-434a-97fb-4f5374634a07":true},"NotificationProvidersPriority":["08f0d9c3-c770-4093-a3d0-02f3d90c24bc","8fbc3a26-6d20-44dd-b895-b9411e3ddc51","7625de96-38aa-4b71-b478-3f156dd9458d","4b12f124-8585-43c7-afc5-7bbb7cbe60d6","0117fb4f-5374-434a-97fb-4f5374634a07"],"NotificationProvidersSettings":{"08f0d9c3-c770-4093-a3d0-02f3d90c24bc":{"IsClassOnNotificationEnabled":true,"IsClassOnPreparingNotificationEnabled":true,"IsClassOffNotificationEnabled":true,"InDoorClassPreparingDeltaTime":180,"OutDoorClassPreparingDeltaTime":420,"ClassOnPreparingText":"","ClassOnPreparingMaskText":"\u5373\u5C06\u4E0A\u8BFE","OutdoorClassOnPreparingMaskText":"\u5373\u5C06\u4E0A\u8BFE","OutdoorClassOnPreparingText":"\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002","ClassOnMaskText":"\u4E0A\u8BFE","ClassOffMaskText":"\u8BFE\u95F4\u4F11\u606F","ClassOffOverlayText":"","IsSpeechEnabledOnClassPreparing":true,"IsSpeechEnabledOnClassOn":true,"IsSpeechEnabledOnClassOff":true,"ShowTeacherName":false,"IsActive":false},"8fbc3a26-6d20-44dd-b895-b9411e3ddc51":{"IsEnabled":true,"NotificationMsg":"\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002","IsActive":false},"7625de96-38aa-4b71-b478-3f156dd9458d":{"AlertShowMode":1,"ForecastShowMode":0,"IsAlertEnabled":true,"IsForecastEnabled":true,"WeatherAlertSpeed":7,"IsActive":false},"4b12f124-8585-43c7-afc5-7bbb7cbe60d6":null,"0117fb4f-5374-434a-97fb-4f5374634a07":null},"NotificationProvidersNotifySettings":{"08f0d9c3-c770-4093-a3d0-02f3d90c24bc":{"IsNotificationEnabled":true,"IsSpeechEnabled":false,"IsNotificationEffectEnabled":true,"IsNotificationSoundEnabled":false,"NotificationSoundPath":"","IsNotificationTopmostEnabled":false,"IsSettingsEnabled":false,"IsActive":false},"8fbc3a26-6d20-44dd-b895-b9411e3ddc51":{"IsNotificationEnabled":true,"IsSpeechEnabled":false,"IsNotificationEffectEnabled":true,"IsNotificationSoundEnabled":false,"NotificationSoundPath":"","IsNotificationTopmostEnabled":false,"IsSettingsEnabled":false,"IsActive":false},"7625de96-38aa-4b71-b478-3f156dd9458d":{"IsNotificationEnabled":true,"IsSpeechEnabled":true,"IsNotificationEffectEnabled":true,"IsNotificationSoundEnabled":true,"NotificationSoundPath":"","IsNotificationTopmostEnabled":true,"IsSettingsEnabled":false,"IsActive":false},"4b12f124-8585-43c7-afc5-7bbb7cbe60d6":{"IsNotificationEnabled":true,"IsSpeechEnabled":false,"IsNotificationEffectEnabled":true,"IsNotificationSoundEnabled":false,"NotificationSoundPath":"","IsNotificationTopmostEnabled":false,"IsSettingsEnabled":false,"IsActive":false},"0117fb4f-5374-434a-97fb-4f5374634a07":{"IsNotificationEnabled":true,"IsSpeechEnabled":false,"IsNotificationEffectEnabled":true,"IsNotificationSoundEnabled":false,"NotificationSoundPath":"","IsNotificationTopmostEnabled":false,"IsSettingsEnabled":false,"IsActive":false}},"IsSystemSpeechSystemExist":true,"IsNetworkConnect":true,"IsSpeechEnabled":true,"SpeechVolume":1,"SpeechSource":1,"EdgeTtsVoiceName":"zh-CN-XiaoxiaoNeural","IsNotificationEffectEnabled":true,"IsNotificationSoundEnabled":true,"NotificationSoundPath":"","IsNotificationTopmostEnabled":true,"NotificationEffectRenderingScale":1,"IsNotificationEffectRenderingScaleAutoSet":true,"IsNotificationSpeechEnabled":true,"AllowNotificationSpeech":true,"AllowNotificationEffect":true,"AllowNotificationSound":true,"AllowNotificationTopmost":true,"NotificationSoundVolume":1,"NotificationSpeechCustomSmgTokenSource":"","GptSoVitsSpeechSettings":{"PresetName":"\u65B0\u9884\u8BBE","IsInternal":false,"GptSoVitsServerIp":"127.0.0.1","GptSoVitsPort":"8000","GptSoVitsVoiceName":"your_voice_name","GptSoVitsTextLang":"zh","GptSoVitsRefAudioPath":"archive_jingyuan_1.wav","GptSoVitsPromptLang":"zh","GptSoVitsPromptText":"\u6211\u662F\u300C\u7F57\u6D6E\u300D\u4E91\u9A91\u5C06\u519B\u666F\u5143\u3002\u4E0D\u5FC5\u62D8\u8C28\uFF0C\u300C\u5C06\u519B\u300D\u53EA\u662F\u4E00\u65F6\u7684\u8EAB\u4EFD\uFF0C\u4F60\u79F0\u547C\u6211\u666F\u5143\u4FBF\u53EF","GptSoVitsTextSplitMethod":"cut5","GptSoVitsBatchSize":1},"NotificationUseStandaloneEffectUiThread":true,"IsAutomationEnabled":true,"CurrentAutomationConfig":"Default","IsAutomationWarningVisible":false,"UpdateMode":3,"SelectedChannel":"https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public","LastCheckUpdateTime":"2025-05-01T13:18:17.9165655+08:00","LastUpdateStatus":0,"AutoInstallUpdateNextStartup":true,"SpeedTestResults":{"main":{"Delay":0,"CanConnect":false,"IsTested":false,"IsTesting":false,"IsDelayUnclear":false,"IsActive":false},"github-origin":{"Delay":0,"CanConnect":false,"IsTested":false,"IsTesting":false,"IsDelayUnclear":false,"IsActive":false}},"IsAutoSelectUpgradeMirror":true,"LastSpeedTest":"2025-04-26T17:33:10.4964545+08:00","LastUpdateSourceKind":2,"UpdateReleaseInfo":"","UpdateDownloadUrl":"","UpdateVersion":"0.0","UpdateArtifactHash":"","SelectedUpdateMirrorV2":"main","SelectedUpdateChannelV2":"stable","WindowDockingLocation":1,"IsIgnoreWorkAreaEnabled":false,"WindowDockingOffsetX":0,"WindowDockingOffsetY":0,"WindowDockingMonitorIndex":0,"WindowLayer":1,"IsMouseClickingEnabled":false,"UseRawInput":false,"IsMouseInFadingEnabled":true,"IsMouseInFadingReversed":false,"TouchInFadingDurationMs":0,"IsCompatibleWindowTransparentEnabled":false,"LastWeatherInfo":{"current":{"feelsLike":{"value":"26","unit":"\u2103"},"humidity":{"value":"30","unit":"%"},"pressure":{"value":"1009","unit":"hPa"},"temperature":{"value":"27","unit":"\u2103"},"visibility":{"value":"","unit":"km"},"weather":"0","pubTime":"2025-05-01T13:17:13+08:00","wind":{"direction":{"value":"347.0","unit":"\u00B0"},"speed":{"value":"23.0","unit":"km/h"}}},"alerts":[],"updateTime":1746076769830,"forecastDaily":{"precipitationProbability":{"value":["0","0","0","0","0","0","0","0","0","0","0","0","0","0","0"]},"temperature":{"value":[{"from":"29","to":"16"},{"from":"30","to":"16"},{"from":"28","to":"15"},{"from":"26","to":"17"},{"from":"20","to":"18"},{"from":"29","to":"18"},{"from":"28","to":"16"},{"from":"28","to":"17"},{"from":"28","to":"15"},{"from":"28","to":"17"},{"from":"26","to":"16"},{"from":"33","to":"17"},{"from":"28","to":"16"},{"from":"34","to":"22"},{"from":"34","to":"23"}]},"weather":{"value":[{"from":"0","to":"1"},{"from":"0","to":"1"},{"from":"2","to":"1"},{"from":"2","to":"2"},{"from":"8","to":"2"},{"from":"2","to":"1"},{"from":"2","to":"1"},{"from":"2","to":"0"},{"from":"2","to":"1"},{"from":"0","to":"2"},{"from":"2","to":"2"},{"from":"7","to":"7"},{"from":"2","to":"1"},{"from":"2","to":"2"},{"from":"7","to":"7"}]},"sunRiseSet":{"value":[{"from":"2025-05-01T05:13:00\u002B08:00","to":"2025-05-01T18:36:00\u002B08:00"},{"from":"2025-05-02T05:12:00\u002B08:00","to":"2025-05-02T18:37:00\u002B08:00"},{"from":"2025-05-03T05:11:00\u002B08:00","to":"2025-05-03T18:38:00\u002B08:00"},{"from":"2025-05-04T05:10:00\u002B08:00","to":"2025-05-04T18:39:00\u002B08:00"},{"from":"2025-05-05T05:09:00\u002B08:00","to":"2025-05-05T18:39:00\u002B08:00"},{"from":"2025-05-06T05:08:00\u002B08:00","to":"2025-05-06T18:40:00\u002B08:00"},{"from":"2025-05-07T05:08:00\u002B08:00","to":"2025-05-07T18:41:00\u002B08:00"},{"from":"2025-05-08T05:07:00\u002B08:00","to":"2025-05-08T18:41:00\u002B08:00"},{"from":"2025-05-09T05:06:00\u002B08:00","to":"2025-05-09T18:42:00\u002B08:00"},{"from":"2025-05-10T05:05:00\u002B08:00","to":"2025-05-10T18:43:00\u002B08:00"},{"from":"2025-05-11T05:04:00\u002B08:00","to":"2025-05-11T18:43:00\u002B08:00"},{"from":"2025-05-12T05:04:00\u002B08:00","to":"2025-05-12T18:44:00\u002B08:00"},{"from":"2025-05-13T05:03:00\u002B08:00","to":"2025-05-13T18:45:00\u002B08:00"},{"from":"2025-05-14T05:02:00\u002B08:00","to":"2025-05-14T18:45:00\u002B08:00"},{"from":"2025-05-15T05:01:00\u002B08:00","to":"2025-05-15T18:46:00\u002B08:00"}]}},"forecastHourly":{"temperature":{"value":[29,28,27,26,24,22,20,20,19,18,18,17,16,17,17,17,18,20,22,24,26,28,29]},"weather":{"value":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}},"minutely":{"precipitation":{"value":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}},"aqi":{"aqi":"59"}},"CityId":"weathercn:101190402","CityName":"\u5E38\u719F (\u82CF\u5DDE, \u6C5F\u82CF, \u4E2D\u56FD)","ExcludedWeatherAlerts":["\u6D77\u533A"],"ExpIsExcelImportEnabled":false,"ExpAllowEditingActivatedTimeLayout":false,"DiagnosticFirstLaunchTime":"2025-04-26T17:33:09.5059193+08:00","DiagnosticStartupCount":20,"DiagnosticCrashCount":0,"DiagnosticLastCrashTime":"0001-01-01T00:00:00","DiagnosticMemoryKillCount":0,"DiagnosticLastMemoryKillTime":"2025-04-26T17:33:09.5059194+08:00","IsAutoBackupEnabled":true,"LastAutoBackupTime":"2025-04-26T17:33:09.5059454+08:00","AutoBackupLimit":16,"AutoBackupIntervalDays":7,"OfficialIndexMirrors":{"github":"https://github.com","ghproxy":"https://mirror.ghproxy.com/https://github.com","moeyy":"https://github.moeyy.xyz/https://github.com"},"OfficialSelectedMirror":"ghproxy","PluginIndexes":[],"LastRefreshPluginSourceTime":"2025-05-01T13:24:56.7885127+08:00","IsPluginMarketWarningVisible":false,"IsDebugEnabled":false,"IsDebugOptionsEnabled":false,"IsMainWindowDebugEnabled":false,"DebugAnimationScale":1,"TimeLayoutEditorIndex":0,"IsDebugConsoleEnabled":false,"DebugGitHubAuthKey":"","ContributorsCache":{"Contributors":[],"IsActive":false},"LastAppVersion":"1.6.1.1","ShowComponentsMigrateTip":false,"IsMigratedFromv1_4":false,"IsProfileEditorClassInfoSubjectAutoMoveNextEnabled":true,"IsSwapMode":true,"ShowEchoCaveWhenSettingsPageLoading":false,"SettingsPagesCachePolicy":0,"TrustedProfileIds":["9ead33a9-f1c4-4776-8caf-dbc5755e02b0","090c4e89-8b44-4d77-8382-e22a19947141","dd3bb432-9151-428a-a0ac-04e476bb4b83","a91ec1ee-e38e-44d2-84b7-81a9deea2f37","297dee61-5d80-4044-9d77-5c58d9472658","52963a0b-5b93-4379-b602-dfecf3089d6c"],"IsActive":false}
+{
+    "SelectedProfile": "Default.json",
+    "IsMainWindowVisible": false,
+    "IsWelcomeWindowShowed": true,
+    "SettingsOverlay": {
+  
+    },
+    "WeatherLongitude": 120.7367,
+    "WeatherLatitude": 31.6472,
+    "WeatherLocationSource": 1,
+    "AutoRefreshWeatherLocation": true,
+    "SingleWeekStartTime": "2025-02-10T00:00:00",
+    "MultiWeekRotationOffset": [-1, -1, 0, 0, 0],
+    "ClassPrepareNotifySeconds": 60,
+    "IsClassPrepareNotificationEnabled": true,
+    "MiniInfoProviderSettings": {
+  
+    },
+    "SelectedMiniInfoProvider": "d9fc55d6-8061-4c21-b521-6b0532ff735f",
+    "ShowDate": true,
+    "HideOnClass": false,
+    "IsClassChangingNotificationEnabled": true,
+    "IsClassOffNotificationEnabled": true,
+    "HideMode": 1,
+    "HiedRules": {
+      "Mode": 0,
+      "IsReversed": false,
+      "Groups": [
+        {
+          "Rules": [
+            {
+              "IsReversed": false,
+              "Id": "classisland.lessons.timeState",
+              "Settings": {
+                "State": 1,
+                "IsActive": false
+              },
+              "IsActive": false
+            },
+            {
+              "IsReversed": false,
+              "Id": "classisland.windows.status",
+              "Settings": {
+                "State": 3,
+                "IsActive": false
+              },
+              "IsActive": false
+            }
+          ],
+          "Mode": 1,
+          "IsReversed": false,
+          "IsEnabled": true,
+          "IsActive": false
+        }
+      ],
+      "IsActive": false
+    },
+    "HideOnFullscreen": false,
+    "ExcludedFullscreenWindow": [
+      "explorer"
+    ],
+    "HideOnMaxWindow": false,
+    "IsReportingEnabled": true,
+    "TaskBarIconClickBehavior": 2,
+    "ShowExtraInfoOnTimePoint": true,
+    "ExtraInfoType": 0,
+    "IsCountdownEnabled": true,
+    "CountdownSeconds": 60,
+    "ExtraInfo4ShowSecondsSeconds": 300,
+    "ScheduleSpacing": 1,
+    "ShowCurrentLessonOnlyOnClass": false,
+    "IsNonExactCountdownEnabled": false,
+    "DefaultOnClassTimePointMinutes": 40,
+    "DefaultBreakingTimePointMinutes": 10,
+    "IsSplashEnabled": true,
+    "SplashCustomText": "",
+    "SplashCustomLogoSource": "",
+    "ExactTimeServer": "ntp.aliyun.com",
+    "IsExactTimeEnabled": true,
+    "TimeOffsetSeconds": 0,
+    "IsTimeAutoAdjustEnabled": false,
+    "TimeAutoAdjustSeconds": 0,
+    "LastTimeAdjustDateTime": "2025-05-01T00:00:00+08:00",
+    "IsTransientDisabled": false,
+    "IsWaitForTransientDisabled": false,
+    "IsCriticalSafeMode": false,
+    "ShowDetailedStatusOnSplash": false,
+    "CriticalSafeModeMethod": 0,
+    "AutoDisableCorruptPlugins": true,
+    "CorruptPluginsDisabledLastSession": false,
+    "Theme": 2,
+    "PrimaryColor": {
+      "ColorContext": null,
+      "A": 255,
+      "R": 0,
+      "G": 191,
+      "B": 255,
+      "ScA": 1,
+      "ScR": 0,
+      "ScG": 0.5209956,
+      "ScB": 1
+    },
+    "SecondaryColor": {
+      "ColorContext": null,
+      "A": 255,
+      "R": 127,
+      "G": 255,
+      "B": 212,
+      "ScA": 1,
+      "ScR": 0.21223076,
+      "ScG": 1,
+      "ScB": 0.65837485
+    },
+    "ColorSource": 2,
+    "WallpaperColorPlatte": [
+      {
+        "ColorContext": null,
+        "A": 255,
+        "R": 92,
+        "G": 149,
+        "B": 158,
+        "ScA": 1,
+        "ScR": 0.107023105,
+        "ScG": 0.3005438,
+        "ScB": 0.34191445
+      },
+      {
+        "ColorContext": null,
+        "A": 255,
+        "R": 53,
+        "G": 120,
+        "B": 134,
+        "ScA": 1,
+        "ScR": 0.035601314,
+        "ScG": 0.18782078,
+        "ScB": 0.2383976
+      },
+      {
+        "ColorContext": null,
+        "A": 255,
+        "R": 143,
+        "G": 185,
+        "B": 200,
+        "ScA": 1,
+        "ScR": 0.27467734,
+        "ScG": 0.48514995,
+        "ScB": 0.57758045
+      },
+      {
+        "ColorContext": null,
+        "A": 255,
+        "R": 168,
+        "G": 200,
+        "B": 210,
+        "ScA": 1,
+        "ScR": 0.3915725,
+        "ScG": 0.57758045,
+        "ScB": 0.6444797
+      },
+      {
+        "ColorContext": null,
+        "A": 255,
+        "R": 42,
+        "G": 85,
+        "B": 90,
+        "ScA": 1,
+        "ScR": 0.023153368,
+        "ScG": 0.09084172,
+        "ScB": 0.10224174
+      }
+    ],
+    "SelectedPlatteIndex": 0,
+    "IsWallpaperAutoUpdateEnabled": false,
+    "WallpaperAutoUpdateIntervalSeconds": 60,
+    "WallpaperClassName": "",
+    "IsFallbackModeEnabled": true,
+    "UseExperimentColorPickingMethod": false,
+    "TargetLightValue": 0.6,
+    "IsCustomBackgroundColorEnabled": false,
+    "BackgroundColor": {
+      "ColorContext": null,
+      "A": 255,
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "ScA": 1,
+      "ScR": 0,
+      "ScG": 0,
+      "ScB": 0
+    },
+    "Opacity": 0.5,
+    "Scale": 1,
+    "MainWindowFont": "/ClassIsland;component/Assets/Fonts/#HarmonyOS Sans SC",
+    "MainWindowFontWeight2": 500,
+    "RadiusX": 0,
+    "RadiusY": 0,
+    "MainWindowSecondaryFontSize": 14,
+    "MainWindowBodyFontSize": 16,
+    "MainWindowEmphasizedFontSize": 18,
+    "MainWindowLargeFontSize": 20,
+    "IsCustomForegroundColorEnabled": false,
+    "CustomForegroundColor": {
+      "ColorContext": null,
+      "A": 255,
+      "R": 30,
+      "G": 144,
+      "B": 255,
+      "ScA": 1,
+      "ScR": 0.0129830325,
+      "ScG": 0.2788943,
+      "ScB": 1
+    },
+    "MainWindowLineVerticalMargin": 5,
+    "CurrentComponentConfig": "Default",
+    "IsNotificationEnabled": true,
+    "NotificationProvidersEnableStates": {
+      "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": true,
+      "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": true,
+      "7625de96-38aa-4b71-b478-3f156dd9458d": true,
+      "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": true,
+      "0117fb4f-5374-434a-97fb-4f5374634a07": true
+    },
+    "NotificationProvidersPriority": [
+      "08f0d9c3-c770-4093-a3d0-02f3d90c24bc",
+      "8fbc3a26-6d20-44dd-b895-b9411e3ddc51",
+      "7625de96-38aa-4b71-b478-3f156dd9458d",
+      "4b12f124-8585-43c7-afc5-7bbb7cbe60d6",
+      "0117fb4f-5374-434a-97fb-4f5374634a07"
+    ],
+    "NotificationProvidersSettings": {
+      "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+        "IsClassOnNotificationEnabled": true,
+        "IsClassOnPreparingNotificationEnabled": true,
+        "IsClassOffNotificationEnabled": true,
+        "InDoorClassPreparingDeltaTime": 180,
+        "OutDoorClassPreparingDeltaTime": 420,
+        "ClassOnPreparingText": "",
+        "ClassOnPreparingMaskText": "即将上课",
+        "OutdoorClassOnPreparingMaskText": "即将上课",
+        "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+        "ClassOnMaskText": "上课",
+        "ClassOffMaskText": "课间休息",
+        "ClassOffOverlayText": "",
+        "IsSpeechEnabledOnClassPreparing": true,
+        "IsSpeechEnabledOnClassOn": true,
+        "IsSpeechEnabledOnClassOff": true,
+        "ShowTeacherName": true,
+        "IsActive": false
+      },
+      "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+        "IsEnabled": true,
+        "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+        "IsActive": false
+      },
+      "7625de96-38aa-4b71-b478-3f156dd9458d": {
+        "AlertShowMode": 1,
+        "ForecastShowMode": 0,
+        "IsAlertEnabled": true,
+        "IsForecastEnabled": true,
+        "WeatherAlertSpeed": 7,
+        "IsActive": false
+      },
+      "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": null,
+      "0117fb4f-5374-434a-97fb-4f5374634a07": null
+    },
+    "NotificationProvidersNotifySettings": {
+      "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      },
+      "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      },
+      "7625de96-38aa-4b71-b478-3f156dd9458d": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": true,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": true,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": true,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      },
+      "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      },
+      "0117fb4f-5374-434a-97fb-4f5374634a07": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      }
+    },
+    "IsSystemSpeechSystemExist": true,
+    "IsNetworkConnect": true,
+    "IsSpeechEnabled": true,
+    "SpeechVolume": 1,
+    "SpeechSource": 1,
+    "EdgeTtsVoiceName": "zh-CN-XiaoyiNeural",
+    "IsNotificationEffectEnabled": true,
+    "IsNotificationSoundEnabled": true,
+    "NotificationSoundPath": "",
+    "IsNotificationTopmostEnabled": true,
+    "NotificationEffectRenderingScale": 1,
+    "IsNotificationEffectRenderingScaleAutoSet": true,
+    "IsNotificationSpeechEnabled": true,
+    "AllowNotificationSpeech": true,
+    "AllowNotificationEffect": true,
+    "AllowNotificationSound": true,
+    "AllowNotificationTopmost": true,
+    "NotificationSoundVolume": 1,
+    "NotificationSpeechCustomSmgTokenSource": "",
+    "GptSoVitsSpeechSettings": {
+      "PresetName": "流萤（崩坏：星穹铁道）",
+      "IsInternal": true,
+      "GptSoVitsServerIp": "firefly.tts.wez.ink",
+      "GptSoVitsPort": "80",
+      "GptSoVitsVoiceName": "firefly",
+      "GptSoVitsTextLang": "zh",
+      "GptSoVitsRefAudioPath": "template_audio/firefly.wav",
+      "GptSoVitsPromptLang": "zh",
+      "GptSoVitsPromptText": "因为你身上别着星穹列车的徽章呀，我在大银幕上见过！",
+      "GptSoVitsTextSplitMethod": "cut5",
+      "GptSoVitsBatchSize": 5
+    },
+    "NotificationUseStandaloneEffectUiThread": true,
+    "IsAutomationEnabled": true,
+    "CurrentAutomationConfig": "Default",
+    "IsAutomationWarningVisible": false,
+    "UpdateMode": 3,
+    "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
+    "LastCheckUpdateTime": "2025-05-01T16:02:13.8276606+08:00",
+    "LastUpdateStatus": 0,
+    "AutoInstallUpdateNextStartup": true,
+    "SpeedTestResults": {
+      "main": {
+        "Delay": 0,
+        "CanConnect": false,
+        "IsTested": false,
+        "IsTesting": false,
+        "IsDelayUnclear": false,
+        "IsActive": false
+      },
+      "github-origin": {
+        "Delay": 0,
+        "CanConnect": false,
+        "IsTested": false,
+        "IsTesting": false,
+        "IsDelayUnclear": false,
+        "IsActive": false
+      }
+    },
+    "IsAutoSelectUpgradeMirror": true,
+    "LastSpeedTest": "2025-04-26T17:33:10.4964545+08:00",
+    "LastUpdateSourceKind": 2,
+    "UpdateReleaseInfo": "",
+    "UpdateDownloadUrl": "",
+    "UpdateVersion": "0.0",
+    "UpdateArtifactHash": "",
+    "SelectedUpdateMirrorV2": "main",
+    "SelectedUpdateChannelV2": "stable",
+    "WindowDockingLocation": 1,
+    "IsIgnoreWorkAreaEnabled": false,
+    "WindowDockingOffsetX": 0,
+    "WindowDockingOffsetY": 0,
+    "WindowDockingMonitorIndex": 0,
+    "WindowLayer": 1,
+    "IsMouseClickingEnabled": false,
+    "UseRawInput": false,
+    "IsMouseInFadingEnabled": true,
+    "IsMouseInFadingReversed": false,
+    "TouchInFadingDurationMs": 0,
+    "IsCompatibleWindowTransparentEnabled": false,
+    "LastWeatherInfo": {
+      "current": {
+        "feelsLike": {
+          "value": "26",
+          "unit": "℃"
+        },
+        "humidity": {
+          "value": "28",
+          "unit": "%"
+        },
+        "pressure": {
+          "value": "1009",
+          "unit": "hPa"
+        },
+        "temperature": {
+          "value": "27",
+          "unit": "℃"
+        },
+        "visibility": {
+          "value": "",
+          "unit": "km"
+        },
+        "weather": "0",
+        "pubTime": "2025-05-01T16:10:18+08:00",
+        "wind": {
+          "direction": {
+            "value": "34.0",
+            "unit": "°"
+          },
+          "speed": {
+            "value": "22.0",
+            "unit": "km/h"
+          }
+        }
+      },
+      "alerts": [],
+      "updateTime": 1746087274239,
+      "forecastDaily": {
+        "precipitationProbability": {
+          "value": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        "temperature": {
+          "value": [
+            {
+              "from": "29",
+              "to": "16"
+            },
+            {
+              "from": "30",
+              "to": "16"
+            },
+            {
+              "from": "28",
+              "to": "15"
+            },
+            {
+              "from": "26",
+              "to": "17"
+            },
+            {
+              "from": "20",
+              "to": "18"
+            },
+            {
+              "from": "29",
+              "to": "18"
+            },
+            {
+              "from": "28",
+              "to": "16"
+            },
+            {
+              "from": "28",
+              "to": "17"
+            },
+            {
+              "from": "28",
+              "to": "15"
+            },
+            {
+              "from": "28",
+              "to": "17"
+            },
+            {
+              "from": "26",
+              "to": "16"
+            },
+            {
+              "from": "33",
+              "to": "17"
+            },
+            {
+              "from": "28",
+              "to": "16"
+            },
+            {
+              "from": "34",
+              "to": "22"
+            },
+            {
+              "from": "34",
+              "to": "23"
+            }
+          ]
+        },
+        "weather": {
+          "value": [
+            {
+              "from": "0",
+              "to": "1"
+            },
+            {
+              "from": "0",
+              "to": "1"
+            },
+            {
+              "from": "2",
+              "to": "1"
+            },
+            {
+              "from": "2",
+              "to": "2"
+            },
+            {
+              "from": "8",
+              "to": "2"
+            },
+            {
+              "from": "2",
+              "to": "1"
+            },
+            {
+              "from": "2",
+              "to": "1"
+            },
+            {
+              "from": "2",
+              "to": "0"
+            },
+            {
+              "from": "2",
+              "to": "1"
+            },
+            {
+              "from": "0",
+              "to": "2"
+            },
+            {
+              "from": "2",
+              "to": "2"
+            },
+            {
+              "from": "7",
+              "to": "7"
+            },
+            {
+              "from": "2",
+              "to": "1"
+            },
+            {
+              "from": "2",
+              "to": "2"
+            },
+            {
+              "from": "7",
+              "to": "7"
+            }
+          ]
+        },
+        "sunRiseSet": {
+          "value": [
+            {
+              "from": "2025-05-01T05:13:00+08:00",
+              "to": "2025-05-01T18:36:00+08:00"
+            },
+            {
+              "from": "2025-05-02T05:12:00+08:00",
+              "to": "2025-05-02T18:37:00+08:00"
+            },
+            {
+              "from": "2025-05-03T05:11:00+08:00",
+              "to": "2025-05-03T18:38:00+08:00"
+            },
+            {
+              "from": "2025-05-04T05:10:00+08:00",
+              "to": "2025-05-04T18:39:00+08:00"
+            },
+            {
+              "from": "2025-05-05T05:09:00+08:00",
+              "to": "2025-05-05T18:39:00+08:00"
+            },
+            {
+              "from": "2025-05-06T05:08:00+08:00",
+              "to": "2025-05-06T18:40:00+08:00"
+            },
+            {
+              "from": "2025-05-07T05:08:00+08:00",
+              "to": "2025-05-07T18:41:00+08:00"
+            },
+            {
+              "from": "2025-05-08T05:07:00+08:00",
+              "to": "2025-05-08T18:41:00+08:00"
+            },
+            {
+              "from": "2025-05-09T05:06:00+08:00",
+              "to": "2025-05-09T18:42:00+08:00"
+            },
+            {
+              "from": "2025-05-10T05:05:00+08:00",
+              "to": "2025-05-10T18:43:00+08:00"
+            },
+            {
+              "from": "2025-05-11T05:04:00+08:00",
+              "to": "2025-05-11T18:43:00+08:00"
+            },
+            {
+              "from": "2025-05-12T05:04:00+08:00",
+              "to": "2025-05-12T18:44:00+08:00"
+            },
+            {
+              "from": "2025-05-13T05:03:00+08:00",
+              "to": "2025-05-13T18:45:00+08:00"
+            },
+            {
+              "from": "2025-05-14T05:02:00+08:00",
+              "to": "2025-05-14T18:45:00+08:00"
+            },
+            {
+              "from": "2025-05-15T05:01:00+08:00",
+              "to": "2025-05-15T18:46:00+08:00"
+            }
+          ]
+        }
+      },
+      "forecastHourly": {
+        "temperature": {
+          "value": [26, 24, 22, 20, 20, 19, 18, 18, 17, 16, 17, 17, 17, 18, 20, 22, 24, 26, 28, 29, 29, 30, 30]
+        },
+        "weather": {
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        }
+      },
+      "minutely": {
+        "precipitation": {
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        }
+      },
+      "aqi": {
+        "aqi": "52"
+      }
+    },
+    "CityId": "weathercn:101190402",
+    "CityName": "常熟 (苏州, 江苏, 中国)",
+    "ExcludedWeatherAlerts": [
+      "海区"
+    ],
+    "ExpIsExcelImportEnabled": false,
+    "ExpAllowEditingActivatedTimeLayout": false,
+    "DiagnosticFirstLaunchTime": "2025-04-26T17:33:09.5059193+08:00",
+    "DiagnosticStartupCount": 31,
+    "DiagnosticCrashCount": 0,
+    "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
+    "DiagnosticMemoryKillCount": 0,
+    "DiagnosticLastMemoryKillTime": "2025-04-26T17:33:09.5059194+08:00",
+    "IsAutoBackupEnabled": true,
+    "LastAutoBackupTime": "2025-04-26T17:33:09.5059454+08:00",
+    "AutoBackupLimit": 16,
+    "AutoBackupIntervalDays": 7,
+    "OfficialIndexMirrors": {
+  
+    },
+    "OfficialSelectedMirror": "ghproxy",
+    "PluginIndexes": [],
+    "LastRefreshPluginSourceTime": "2025-05-01T13:24:56.7885127+08:00",
+    "IsPluginMarketWarningVisible": false,
+    "IsDebugEnabled": false,
+    "IsDebugOptionsEnabled": false,
+    "IsMainWindowDebugEnabled": false,
+    "DebugAnimationScale": 1,
+    "TimeLayoutEditorIndex": 0,
+    "IsDebugConsoleEnabled": false,
+    "DebugGitHubAuthKey": "",
+    "ContributorsCache": {
+      "Contributors": [],
+      "IsActive": false
+    },
+    "LastAppVersion": "1.6.1.1",
+    "ShowComponentsMigrateTip": false,
+    "IsMigratedFromv1_4": false,
+    "IsProfileEditorClassInfoSubjectAutoMoveNextEnabled": true,
+    "IsSwapMode": true,
+    "ShowEchoCaveWhenSettingsPageLoading": false,
+    "SettingsPagesCachePolicy": 0,
+    "TrustedProfileIds": [
+      "9ead33a9-f1c4-4776-8caf-dbc5755e02b0",
+      "090c4e89-8b44-4d77-8382-e22a19947141",
+      "dd3bb432-9151-428a-a0ac-04e476bb4b83",
+      "a91ec1ee-e38e-44d2-84b7-81a9deea2f37",
+      "297dee61-5d80-4044-9d77-5c58d9472658",
+      "52963a0b-5b93-4379-b602-dfecf3089d6c",
+      "214baa70-3a8f-4ecd-8131-210ee9205eeb",
+      "1d5ffed2-9dc7-476c-8c87-1fe06002beb6"
+    ],
+    "IsActive": false
+  }
