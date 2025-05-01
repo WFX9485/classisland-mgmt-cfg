@@ -685,5 +685,10 @@
         },
         "IsActive": false
       }
-    }
+    },
+    "IsOverlayClassPlanEnabled": false,
+    "OverlayClassPlanId": null,
+    "TempClassPlanId": null,
+    "TempClassPlanSetupTime": "2024-05-03T20:33:04.7829202+08:00",
+    "IsActive": false
   }
