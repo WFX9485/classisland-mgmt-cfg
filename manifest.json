@@ -12,6 +12,9 @@
     "SubjectsSource": {
             "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/{id}/subjects.json",
             "Version": 2
+    },
+    "SettingSource": {
+        "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/Settings.json",
+        "Version": 2
     }
-
 }
