@@ -3,19 +3,19 @@
     "OrganizationName": "ChangshuXupuSeniorSchool",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/classplans.json",
-        "Version": 3
+        "Version": 1
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 3
+        "Version": 1
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 3
+        "Version": 1
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/WFX9485/classisland-mgmt-cfg/master/policy.json",
-        "Version": 4
+        "Version": 1
     
     }
 }
