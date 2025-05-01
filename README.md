@@ -24,7 +24,6 @@ classisland-mgmt-cfg
 
 ### 配置部署
 1. 克隆本仓库：
-```bash
 git clone https://github.com/WFX9485/classisland-mgmt-cfg.git
 复制配置文件到部署目录：
 
@@ -60,6 +59,7 @@ policy.json - 策略文件（一致统一，不得更改）
 自定义配置
 修改策略文件后需执行：
 
+## 后期维护
 
 贡献指南
 欢迎通过以下方式参与贡献：
